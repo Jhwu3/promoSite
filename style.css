@@ -1,0 +1,26 @@
+* {
+	box-sizing: border-box;
+}
+
+body, html{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	background-color: #222;
+	color: #fff;
+}
+
+p{
+	color:blue;
+}
+
+#specialParagraph{
+	color: blue;
+	border: 1px solid white;
+}
+
+.highlight {
+	background-color: yellow;
+}
